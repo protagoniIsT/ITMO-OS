@@ -61,4 +61,3 @@ else
 		echo "NAME:$backup_dir;CHANGE_DATE:$start_date;$(cat "$tmp_change_log" | tr '\n' ' ')" >> "$HOME/backup-report"
 	fi
 fi
-
