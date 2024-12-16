@@ -8,7 +8,7 @@ past_date=$(date -d "$start_date -7 days" +"%Y-%m-%d")
 timestamp_past=$(date -d "$past_date" +"%s")
 
 max_date=$(find "$base_dir" -maxdepth 1 -type d -regextype posix-extended -regex '.*/Backup-[0-9]{4}-[0-9]{2}-[0-9]{2}' \
-    -exec basename {} \; | sed 's/Backup-//' | sort -r | head -n 1)
+	-exec basename {} \; | sed 's/Backup-//' | sort -r | head -n 1)
     
 backup_dir="" 
 
@@ -30,8 +30,8 @@ else
 fi
 
 if [[ ! -d "$backup_dir" ]]; then
-    echo "Error: directory $backup_dir was not created." >&2
-    exit 1
+	echo "Error: directory $backup_dir was not created." >&2
+	exit 1
 fi
 
 tmp_change_log="changelog.lst"
@@ -51,9 +51,9 @@ else
 			src_f_size=$(stat -c%s "$file")
 			if [[ $existing_f_size != $src_f_size ]]; then
 				new_version="$existing_file.$start_date"
-                mv "$existing_file" "$new_version"
-                cp "$file" "$backup_dir"
-                echo "$(basename "$existing_file") $(basename "$new_version") " >> "$tmp_change_log"
+				mv "$existing_file" "$new_version"
+				cp "$file" "$backup_dir"
+				echo "$(basename "$existing_file") $(basename "$new_version") " >> "$tmp_change_log"
 			fi
 		fi
 	done
