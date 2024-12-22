@@ -17,7 +17,7 @@ else
 fi
 
 if ln "$filename" "$trash_dir/$curr_number"; then
-    echo "ABS_PATH:$(realpath "$filename") HARD_LINK:${curr_number}" >> "$HOME/.trash.log"
+    echo "ABS_PATH:$(realpath "$filename");HARD_LINK:${curr_number}" >> "$HOME/.trash.log"
     rm "$filename"
     echo "File '$filename' moved to trash as '$curr_number'."
 else
