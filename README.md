@@ -1,1 +1,1 @@
-# CT ITMO OS course solutions#
+# CT ITMO OS course solutions
