@@ -1,0 +1,445 @@
+MiB Mem :   1967,6 total,    570,2 free,    640,4 used,    757,0 buff/cache
+MiB Swap:   2048,0 total,   1513,4 free,    534,6 used.   1173,7 avail Mem 
+   7737 vboxuser  20   0  132660 125824   3200 R 100,0   6,2   0:01.39 bash
+   7737 vboxuser  20   0  149820 142848   3200 R 100,0   7,1   0:01.57 bash
+   7738 vboxuser  20   0  145068 138112   3200 R 100,0   6,9   0:01.58 bash
+   7745 vboxuser  20   0   13404   4096   3328 R   5,9   0,2   0:00.01 top
+      1 root      20   0  166932   6864   4560 S   0,0   0,3   0:02.13 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+------
+MiB Mem :   1967,6 total,    247,8 free,    962,8 used,    757,0 buff/cache
+MiB Swap:   2048,0 total,   1513,4 free,    534,6 used.    851,4 avail Mem 
+   7737 vboxuser  20   0  223608 216704   3200 R 100,0  10,8   0:02.42 bash
+   7737 vboxuser  20   0  238788 231808   3200 R  93,8  11,5   0:02.58 bash
+   7738 vboxuser  20   0  228624 221696   3200 R  93,8  11,0   0:02.59 bash
+   7760 vboxuser  20   0   13404   4096   3328 R   6,2   0,2   0:00.01 top
+      1 root      20   0  166932   6864   4560 S   0,0   0,3   0:02.13 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+------
+MiB Mem :   1967,6 total,     74,8 free,   1135,8 used,    757,0 buff/cache
+MiB Swap:   2048,0 total,   1513,4 free,    534,6 used.    678,4 avail Mem 
+   7737 vboxuser  20   0  313368 306560   3200 R 100,0  15,2   0:03.42 bash
+   7738 vboxuser  20   0  313500 306560   3200 R 100,0  15,2   0:03.59 bash
+   7737 vboxuser  20   0  326304 319360   3200 R 100,0  15,9   0:03.58 bash
+   7775 vboxuser  20   0   13404   4096   3328 R   6,7   0,2   0:00.01 top
+      1 root      20   0  166932   6864   4560 S   0,0   0,3   0:02.13 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+------
+MiB Mem :   1967,6 total,    112,8 free,   1291,1 used,    563,7 buff/cache
+MiB Swap:   2048,0 total,   1513,4 free,    534,6 used.    523,1 avail Mem 
+   7737 vboxuser  20   0  396924 390016   3200 R 100,0  19,4   0:04.41 bash
+   7737 vboxuser  20   0  411444 404480   3200 R 100,0  20,1   0:04.58 bash
+   7738 vboxuser  20   0  394020 387072   3200 R 100,0  19,2   0:04.59 bash
+   2876 vboxuser  20   0 4638780 140164  62092 S  12,5   7,0   0:46.67 gnome-s+
+   2676 root      20   0       0      0      0 I   6,2   0,0   0:00.27 kworker+
+   5370 vboxuser  20   0  554152  30200  22448 S   6,2   1,5   0:06.57 gnome-t+
+------
+MiB Mem :   1967,6 total,     71,3 free,   1441,1 used,    455,2 buff/cache
+MiB Swap:   2048,0 total,   1513,4 free,    534,6 used.    373,2 avail Mem 
+   7737 vboxuser  20   0  481008 474112   3200 R 100,0  23,5   0:05.42 bash
+   7737 vboxuser  20   0  496452 489472   3200 R 100,0  24,3   0:05.59 bash
+   7738 vboxuser  20   0  471372 464384   3200 R 100,0  23,0   0:05.59 bash
+      1 root      20   0  166932   6864   4560 S   0,0   0,3   0:02.13 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+      3 root      20   0       0      0      0 S   0,0   0,0   0:00.00 pool_wo+
+------
+MiB Mem :   1967,6 total,     74,5 free,   1613,9 used,    279,2 buff/cache
+MiB Swap:   2048,0 total,   1513,4 free,    534,6 used.    200,4 avail Mem 
+   7737 vboxuser  20   0  568788 561664   3072 R 100,0  27,9   0:06.42 bash
+   7737 vboxuser  20   0  584496 577408   3072 R 100,0  28,7   0:06.61 bash
+   7738 vboxuser  20   0  556116 549120   3200 R 100,0  27,3   0:06.61 bash
+   5509 root       0 -20       0      0      0 I  56,2   0,0   0:07.03 kworker+
+     62 root       0 -20       0      0      0 I  25,0   0,0   0:02.44 kworker+
+     63 root      20   0       0      0      0 R  12,5   0,0   1:12.11 kswapd0
+------
+MiB Mem :   1967,6 total,     63,4 free,   1682,5 used,    221,7 buff/cache
+MiB Swap:   2048,0 total,   1480,4 free,    567,6 used.    119,5 avail Mem 
+   7737 vboxuser  20   0  628848 605184   3072 R  93,3  30,0   0:07.52 bash
+   7737 vboxuser  20   0  635448 605696   3072 R 100,0  30,1   0:07.72 bash
+     63 root      20   0       0      0      0 R  93,8   0,0   1:13.01 kswapd0
+   7738 vboxuser  20   0  609840 581376   3200 R  93,8  28,9   0:07.72 bash
+   3190 vboxuser  20   0  268688  12916   8412 S  12,5   0,6   0:17.29 Xwayland
+     62 root       0 -20       0      0      0 I   6,2   0,0   0:02.48 kworker+
+------
+MiB Mem :   1967,6 total,     71,6 free,   1684,4 used,    211,5 buff/cache
+MiB Swap:   2048,0 total,   1408,8 free,    639,2 used.    117,9 avail Mem 
+   7737 vboxuser  20   0  660000 606336   3072 R  93,3  30,1   0:08.55 bash
+     63 root      20   0       0      0      0 R 100,0   0,0   1:14.06 kswapd0
+   7737 vboxuser  20   0  667656 609664   3072 R  93,8  30,3   0:08.72 bash
+   7738 vboxuser  20   0  651288 595584   3200 R  93,8  29,6   0:08.79 bash
+   2876 vboxuser  20   0 4638780 120836  59148 R  37,5   6,0   0:47.02 gnome-s+
+     62 root       0 -20       0      0      0 I   6,2   0,0   0:02.50 kworker+
+------
+MiB Mem :   1967,6 total,     70,7 free,   1693,0 used,    203,9 buff/cache
+MiB Swap:   2048,0 total,   1350,1 free,    697,9 used.    103,5 avail Mem 
+   7737 vboxuser  20   0  695640 611200   3072 R 100,0  30,3   0:09.54 bash
+     63 root      20   0       0      0      0 R  93,8   0,0   1:15.07 kswapd0
+   7737 vboxuser  20   0  700788 611456   3072 R  93,8  30,3   0:09.71 bash
+   7738 vboxuser  20   0  685740 599552   3200 R  93,8  29,8   0:09.76 bash
+     17 root      20   0       0      0      0 I   6,2   0,0   0:01.39 rcu_pre+
+   4878 vboxuser  20   0  493832   3328   2688 S   6,2   0,2   0:00.40 update-+
+------
+MiB Mem :   1967,6 total,     70,5 free,   1701,1 used,    196,0 buff/cache
+MiB Swap:   2048,0 total,   1290,3 free,    757,7 used.     95,4 avail Mem 
+   7737 vboxuser  20   0  728508 613248   3072 R 100,0  30,4   0:10.58 bash
+     63 root      20   0       0      0      0 R  83,3   0,0   1:16.12 kswapd0
+   7737 vboxuser  20   0  735108 614144   3072 R  83,3  30,5   0:10.77 bash
+   7738 vboxuser  20   0  723228 606720   3200 R  83,3  30,1   0:10.81 bash
+   7880 vboxuser  20   0   13404   4096   3328 R   5,6   0,2   0:00.03 top
+      1 root      20   0  166932   6864   4560 S   0,0   0,3   0:02.13 systemd
+------
+MiB Mem :   1967,6 total,     69,2 free,   1707,1 used,    191,3 buff/cache
+MiB Swap:   2048,0 total,   1222,6 free,    825,4 used.     89,4 avail Mem 
+   7737 vboxuser  20   0  764544 613632   3072 R  93,3  30,5   0:11.64 bash
+     63 root      20   0       0      0      0 R  94,4   0,0   1:17.19 kswapd0
+   7737 vboxuser  20   0  770220 611840   3072 R  88,9  30,4   0:11.84 bash
+   7738 vboxuser  20   0  760980 608896   3200 R  88,9  30,2   0:11.87 bash
+   7895 vboxuser  20   0   13404   4096   3328 R   5,6   0,2   0:00.03 top
+      1 root      20   0  166932   6864   4560 S   0,0   0,3   0:02.13 systemd
+------
+MiB Mem :   1967,6 total,     92,9 free,   1712,9 used,    161,7 buff/cache
+MiB Swap:   2048,0 total,   1151,4 free,    896,6 used.     95,6 avail Mem 
+   7737 vboxuser  20   0  802296 616064   3072 R 100,0  30,6   0:12.73 bash
+   7738 vboxuser  20   0  805332 624128   3200 R 100,0  31,0   0:12.94 bash
+     63 root      20   0       0      0      0 R 100,0   0,0   1:18.21 kswapd0
+   7737 vboxuser  20   0  809556 619904   3072 R 100,0  30,8   0:12.90 bash
+   7910 vboxuser  20   0   13404   4096   3328 R   6,2   0,2   0:00.01 top
+      1 root      20   0  166932   6864   4560 S   0,0   0,3   0:02.13 systemd
+------
+MiB Mem :   1967,6 total,     69,7 free,   1750,7 used,    147,2 buff/cache
+MiB Swap:   2048,0 total,   1108,4 free,    939,6 used.     65,0 avail Mem 
+   7737 vboxuser  20   0  843744 633472   3072 R  93,3  31,4   0:13.72 bash
+   7738 vboxuser  20   0  846516 638336   3200 R 100,0  31,7   0:13.96 bash
+     63 root      20   0       0      0      0 R 100,0   0,0   1:19.23 kswapd0
+   7737 vboxuser  20   0  850344 632576   3072 R 100,0  31,4   0:13.91 bash
+   7925 vboxuser  20   0   13404   3968   3328 R  12,5   0,2   0:00.03 top
+    139 root       0 -20       0      0      0 I   6,2   0,0   0:02.05 kworker+
+------
+MiB Mem :   1967,6 total,     69,6 free,   1757,1 used,    140,9 buff/cache
+MiB Swap:   2048,0 total,   1039,9 free,   1008,1 used.     61,8 avail Mem 
+   7737 vboxuser  20   0  882552 636288   3072 R 100,0  31,6   0:14.74 bash
+     63 root      20   0       0      0      0 R  94,1   0,0   1:20.23 kswapd0
+   7737 vboxuser  20   0  888888 636160   3072 R  88,2  31,6   0:14.92 bash
+   7738 vboxuser  20   0  883740 641920   3200 R  88,2  31,9   0:14.97 bash
+     17 root      20   0       0      0      0 I   5,9   0,0   0:01.41 rcu_pre+
+     30 root      20   0       0      0      0 S   5,9   0,0   0:04.00 ksoftir+
+------
+MiB Mem :   1967,6 total,     71,8 free,   1761,0 used,    134,8 buff/cache
+MiB Swap:   2048,0 total,    970,2 free,   1077,8 used.     60,9 avail Mem 
+   7737 vboxuser  20   0  922020 638976   3072 R 100,0  31,7   0:15.77 bash
+     63 root      20   0       0      0      0 R  84,2   0,0   1:21.29 kswapd0
+   7737 vboxuser  20   0  929280 638720   3072 R  78,9  31,7   0:15.96 bash
+   7738 vboxuser  20   0  921756 643584   3200 R  78,9  31,9   0:16.01 bash
+   7955 vboxuser  20   0   13404   3968   3328 R   5,3   0,2   0:00.04 top
+      1 root      20   0  166932   6864   4560 S   0,0   0,3   0:02.13 systemd
+------
+MiB Mem :   1967,6 total,     70,0 free,   1758,0 used,    139,6 buff/cache
+MiB Swap:   2048,0 total,    894,1 free,   1153,9 used.     61,5 avail Mem 
+   7737 vboxuser  20   0  958188 636032   3072 D 100,0  31,6   0:16.77 bash
+     63 root      20   0       0      0      0 R  94,4   0,0   1:22.32 kswapd0
+   7738 vboxuser  20   0  960960 644864   3200 R  88,9  32,0   0:17.04 bash
+   7737 vboxuser  20   0  965712 636672   3072 R  83,3  31,6   0:16.96 bash
+     62 root       0 -20       0      0      0 I   5,6   0,0   0:02.58 kworker+
+     76 root       0 -20       0      0      0 I   5,6   0,0   0:01.82 kworker+
+------
+MiB Mem :   1967,6 total,     76,0 free,   1787,9 used,    103,7 buff/cache
+MiB Swap:   2048,0 total,    816,2 free,   1231,8 used.     53,5 avail Mem 
+   7737 vboxuser  20   0 1024056 688256   3072 R 100,0  34,2   0:17.85 bash
+   7737 vboxuser  20   0 1041612 705664   3072 R 100,0  35,0   0:18.08 bash
+   7738 vboxuser  20   0 1032900 708352   3200 R  88,9  35,2   0:18.14 bash
+     62 root       0 -20       0      0      0 I  44,4   0,0   0:02.78 kworker+
+     63 root      20   0       0      0      0 R  11,1   0,0   1:22.89 kswapd0
+   7985 vboxuser  20   0   13404   4096   3328 R  11,1   0,2   0:00.05 top
+------
+MiB Mem :   1967,6 total,     68,5 free,   1823,8 used,     75,2 buff/cache
+MiB Swap:   2048,0 total,    756,1 free,   1291,9 used.     32,1 avail Mem 
+   7737 vboxuser  20   0 1081740 721792   3072 R  81,2  35,8   0:18.96 bash
+   7738 vboxuser  20   0 1077780 722816   3200 R  94,1  35,9   0:19.28 bash
+     63 root      20   0       0      0      0 R  88,2   0,0   1:23.86 kswapd0
+   7737 vboxuser  20   0 1087944 718080   3072 R  88,2  35,6   0:19.16 bash
+   2876 vboxuser  20   0 4638780  17924  13964 R  52,9   0,9   0:47.40 gnome-s+
+     30 root      20   0       0      0      0 S   5,9   0,0   0:04.06 ksoftir+
+------
+MiB Mem :   1967,6 total,     75,5 free,   1798,7 used,     93,3 buff/cache
+MiB Swap:   2048,0 total,    658,7 free,   1389,3 used.     48,1 avail Mem 
+   7737 vboxuser  20   0 1123452 709376   3072 R 100,0  35,2   0:20.06 bash
+   7738 vboxuser  20   0 1113288 710656   3200 R 100,0  35,3   0:20.39 bash
+   7737 vboxuser  20   0 1131372 709376   3072 R 100,0  35,2   0:20.29 bash
+     63 root      20   0       0      0      0 R 100,0   0,0   1:25.09 kswapd0
+   2876 vboxuser  20   0 4638780  30980  21772 D  31,2   1,5   0:47.79 gnome-s+
+   8015 vboxuser  20   0   13404   4096   3328 R  31,2   0,2   0:00.05 top
+------
+MiB Mem :   1967,6 total,     68,8 free,   1801,5 used,     97,3 buff/cache
+MiB Swap:   2048,0 total,    588,5 free,   1459,5 used.     43,4 avail Mem 
+   7737 vboxuser  20   0 1162524 706176   3072 R  93,3  35,0   0:21.20 bash
+   7737 vboxuser  20   0 1169916 705280   3072 R  94,1  35,0   0:21.40 bash
+     63 root      20   0       0      0      0 R  88,2   0,0   1:26.25 kswapd0
+   7738 vboxuser  20   0 1149588 708608   3200 R  88,2  35,2   0:21.51 bash
+   2876 vboxuser  20   0 4638780  41348  26508 S  41,2   2,1   0:48.23 gnome-s+
+     17 root      20   0       0      0      0 I   5,9   0,0   0:01.48 rcu_pre+
+------
+MiB Mem :   1967,6 total,     70,2 free,   1801,0 used,     96,4 buff/cache
+MiB Swap:   2048,0 total,    518,0 free,   1530,0 used.     44,4 avail Mem 
+   7737 vboxuser  20   0 1198824 705792   3072 R 100,0  35,0   0:22.23 bash
+     63 root      20   0       0      0      0 R  94,4   0,0   1:27.27 kswapd0
+   7737 vboxuser  20   0 1205688 705536   3072 R  83,3  35,0   0:22.41 bash
+   7738 vboxuser  20   0 1185888 710400   3200 R  83,3  35,3   0:22.54 bash
+      1 root      20   0  166932   5328   4560 S   0,0   0,3   0:02.13 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+------
+MiB Mem :   1967,6 total,     68,5 free,   1802,6 used,     96,5 buff/cache
+MiB Swap:   2048,0 total,    447,5 free,   1600,5 used.     42,7 avail Mem 
+   7737 vboxuser  20   0 1236312 706432   3072 R 100,0  35,1   0:23.25 bash
+     63 root      20   0       0      0      0 R  93,8   0,0   1:28.30 kswapd0
+   7737 vboxuser  20   0 1242384 705536   3072 R  87,5  35,0   0:23.43 bash
+   7738 vboxuser  20   0 1220076 709760   3200 R  87,5  35,2   0:23.55 bash
+      9 root      20   0       0      0      0 I   6,2   0,0   0:00.21 kworker+
+     62 root       0 -20       0      0      0 I   6,2   0,0   0:02.99 kworker+
+------
+MiB Mem :   1967,6 total,     68,1 free,   1803,0 used,     96,5 buff/cache
+MiB Swap:   2048,0 total,    378,7 free,   1669,3 used.     42,3 avail Mem 
+   7737 vboxuser  20   0 1271820 705792   3072 R 100,0  35,0   0:24.32 bash
+   7738 vboxuser  20   0 1255056 710912   3200 R 100,0  35,3   0:24.62 bash
+     63 root      20   0       0      0      0 R  93,8   0,0   1:29.35 kswapd0
+   7737 vboxuser  20   0 1278948 706816   3072 R  93,8  35,1   0:24.49 bash
+     62 root       0 -20       0      0      0 I   6,2   0,0   0:03.01 kworker+
+   8075 vboxuser  20   0   13404   4096   3328 R   6,2   0,2   0:00.01 top
+------
+MiB Mem :   1967,6 total,     67,4 free,   1801,3 used,     98,9 buff/cache
+MiB Swap:   2048,0 total,    314,1 free,   1733,9 used.     42,8 avail Mem 
+   7737 vboxuser  20   0 1302312 701696   3072 R  80,0  34,8   0:25.22 bash
+     63 root      20   0       0      0      0 R  81,2   0,0   1:30.25 kswapd0
+   5509 root       0 -20       0      0      0 I  68,8   0,0   0:07.77 kworker+
+   7737 vboxuser  20   0 1307328 700544   3072 R  68,8  34,8   0:25.34 bash
+   7738 vboxuser  20   0 1283964 703872   3200 R  68,8  34,9   0:25.45 bash
+   2876 vboxuser  20   0 4638780  43140  27020 D  50,0   2,1   0:48.38 gnome-s+
+------
+MiB Mem :   1967,6 total,     68,2 free,   1798,6 used,    100,8 buff/cache
+MiB Swap:   2048,0 total,    258,1 free,   1789,9 used.     44,5 avail Mem 
+   7737 vboxuser  20   0 1336236 706048   3072 R  86,7  35,0   0:26.09 bash
+     63 root      20   0       0      0      0 R  88,9   0,0   1:31.21 kswapd0
+   7737 vboxuser  20   0 1342968 708224   2944 R  83,3  35,2   0:26.27 bash
+   7738 vboxuser  20   0 1309968 699648   2944 R  77,8  34,7   0:26.41 bash
+     17 root      20   0       0      0      0 I   5,6   0,0   0:01.52 rcu_pre+
+     62 root       0 -20       0      0      0 I   5,6   0,0   0:03.12 kworker+
+------
+MiB Mem :   1967,6 total,     67,4 free,   1800,7 used,     99,5 buff/cache
+MiB Swap:   2048,0 total,    195,1 free,   1852,9 used.     43,1 avail Mem 
+   7737 vboxuser  20   0 1375176 716160   2944 R 100,0  35,5   0:27.14 bash
+     63 root      20   0       0      0      0 R  94,4   0,0   1:32.25 kswapd0
+   7737 vboxuser  20   0 1381116 714880   2944 R  83,3  35,5   0:27.32 bash
+   7738 vboxuser  20   0 1343232 693248   2944 R  83,3  34,4   0:27.50 bash
+     17 root      20   0       0      0      0 I   5,6   0,0   0:01.53 rcu_pre+
+     76 root       0 -20       0      0      0 I   5,6   0,0   0:02.05 kworker+
+------
+MiB Mem :   1967,6 total,     70,0 free,   1798,0 used,     99,7 buff/cache
+MiB Swap:   2048,0 total,    132,5 free,   1915,5 used.     45,7 avail Mem 
+   7737 vboxuser  20   0 1400784 710912   2944 R  87,5  35,3   0:28.19 bash
+     63 root      20   0       0      0      0 R  66,7   0,0   1:33.27 kswapd0
+   7737 vboxuser  20   0 1405800 710400   2944 D  55,6  35,3   0:28.32 bash
+   7738 vboxuser  20   0 1373988 693120   2944 R  55,6  34,4   0:28.51 bash
+   2876 vboxuser  20   0 4638796  45444  27020 D  33,3   2,3   0:48.58 gnome-s+
+     62 root       0 -20       0      0      0 R  11,1   0,0   0:03.22 kworker+
+------
+MiB Mem :   1967,6 total,     68,4 free,   1799,5 used,     99,6 buff/cache
+MiB Swap:   2048,0 total,     91,6 free,   1956,4 used.     44,2 avail Mem 
+   7737 vboxuser  20   0 1422168 709632   2944 D  80,0  35,2   0:29.08 bash
+     63 root      20   0       0      0      0 R  57,1   0,0   1:34.24 kswapd0
+   7737 vboxuser  20   0 1427448 708864   2944 R  57,1  35,2   0:29.26 bash
+   7738 vboxuser  20   0 1395900 689536   2944 R  57,1  34,2   0:29.47 bash
+   2876 vboxuser  20   0 4638796  50052  27148 D  23,8   2,5   0:48.80 gnome-s+
+   5509 root       0 -20       0      0      0 I  14,3   0,0   0:08.19 kworker+
+------
+MiB Mem :   1967,6 total,     67,5 free,   1801,5 used,     98,6 buff/cache
+MiB Swap:   2048,0 total,     34,1 free,   2013,9 used.     42,7 avail Mem 
+   7737 vboxuser  20   0 1451076 707456   2944 R  93,3  35,1   0:30.17 bash
+     63 root      20   0       0      0      0 R  88,2   0,0   1:35.35 kswapd0
+   7737 vboxuser  20   0 1458864 708736   2944 R  82,4  35,2   0:30.38 bash
+   7738 vboxuser  20   0 1424808 686336   2944 R  82,4  34,1   0:30.60 bash
+   2876 vboxuser  20   0 4638796  55556  27404 R  23,5   2,8   0:49.13 gnome-s+
+   5509 root       0 -20       0      0      0 I  11,8   0,0   0:08.50 kworker+
+------
+MiB Mem :   1967,6 total,     70,6 free,   1847,4 used,     49,6 buff/cache
+MiB Swap:   2048,0 total,      0,2 free,   2047,8 used.     21,3 avail Mem 
+   7737 vboxuser  20   0 1504140 740096    384 D  47,6  36,7   0:31.37 bash
+     63 root      20   0       0      0      0 S  61,7   0,0   2:06.58 kswapd0
+    503 systemd+  20   0   14836   2432   2304 S  13,7   0,1   0:13.95 systemd+
+     45 root      20   0       0      0      0 I   9,2   0,0   0:05.25 kworker+
+    612 message+  20   0   11152   2944   1664 S   7,3   0,1   0:05.79 dbus-da+
+    621 root      20   0   82700    384    256 S   6,9   0,0   0:02.49 irqbala+
+------
+MiB Mem :   1967,6 total,    343,0 free,   1524,2 used,    100,4 buff/cache
+MiB Swap:   2048,0 total,    726,6 free,   1321,4 used.    319,2 avail Mem 
+   7738 vboxuser  20   0 2014848   1,2g   1792 R 100,0  62,3   0:42.56 bash
+      1 root      20   0  166932   3536   3024 S   0,0   0,2   0:02.56 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+      3 root      20   0       0      0      0 S   0,0   0,0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 kworker+
+------
+MiB Mem :   1967,6 total,     92,2 free,   1774,1 used,    101,3 buff/cache
+MiB Swap:   2048,0 total,    713,4 free,   1334,6 used.     68,9 avail Mem 
+   7738 vboxuser  20   0 2141304   1,3g   1792 R 100,0  67,3   0:44.40 bash
+     63 root      20   0       0      0      0 R  93,3   0,0   2:07.13 kswapd0
+   8154 root       0 -20       0      0      0 I  13,3   0,0   0:00.55 kworker+
+     30 root      20   0       0      0      0 S   6,7   0,0   0:07.34 ksoftir+
+    503 systemd+  20   0   14836   2432   2304 S   6,7   0,1   0:13.96 systemd+
+------
+MiB Mem :   1967,6 total,    107,4 free,   1758,8 used,    101,4 buff/cache
+MiB Swap:   2048,0 total,    674,4 free,   1373,6 used.     84,1 avail Mem 
+   7738 vboxuser  20   0 2164272   1,3g   1792 R  93,8  66,4   0:45.42 bash
+     63 root      20   0       0      0      0 R  87,5   0,0   2:08.05 kswapd0
+     76 root       0 -20       0      0      0 I   6,2   0,0   0:02.59 kworker+
+   8229 vboxuser  20   0   13404   4096   3328 R   6,2   0,2   0:00.01 top
+      1 root      20   0  166932   3536   3024 S   0,0   0,2   0:02.56 systemd
+------
+MiB Mem :   1967,6 total,     77,1 free,   1789,1 used,    101,4 buff/cache
+MiB Swap:   2048,0 total,    639,1 free,   1408,9 used.     53,8 avail Mem 
+   7738 vboxuser  20   0 2248224   1,3g   1792 R  95,2  69,1   0:46.86 bash
+     63 root      20   0       0      0      0 R  19,0   0,0   2:08.69 kswapd0
+   8244 vboxuser  20   0   13404   4096   3328 R   4,8   0,2   0:00.01 top
+      1 root      20   0  166932   3536   3024 S   0,0   0,2   0:02.56 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+------
+MiB Mem :   1967,6 total,     82,8 free,   1786,4 used,     98,3 buff/cache
+MiB Swap:   2048,0 total,    602,5 free,   1445,5 used.     58,0 avail Mem 
+   7738 vboxuser  20   0 2270796   1,3g   1792 R 100,0  68,2   0:47.87 bash
+     63 root      20   0       0      0      0 R  86,7   0,0   2:09.57 kswapd0
+     76 root       0 -20       0      0      0 I  13,3   0,0   0:02.75 kworker+
+   8259 vboxuser  20   0   13404   4096   3328 R   6,7   0,2   0:00.01 top
+      1 root      20   0  166932   3536   3024 S   0,0   0,2   0:02.56 systemd
+------
+MiB Mem :   1967,6 total,     68,5 free,   1805,4 used,     93,6 buff/cache
+MiB Swap:   2048,0 total,    565,5 free,   1482,5 used.     41,4 avail Mem 
+   7738 vboxuser  20   0 2322540   1,3g   1792 R  93,8  69,0   0:49.06 bash
+     63 root      20   0       0      0      0 R  87,5   0,0   2:10.33 kswapd0
+      1 root      20   0  166932   3536   3024 S   0,0   0,2   0:02.56 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+      3 root      20   0       0      0      0 S   0,0   0,0   0:00.00 pool_wo+
+------
+MiB Mem :   1967,6 total,     88,2 free,   1785,7 used,     93,7 buff/cache
+MiB Swap:   2048,0 total,    524,4 free,   1523,6 used.     61,1 avail Mem 
+   7738 vboxuser  20   0 2344848   1,3g   1792 R 100,0  68,0   0:50.07 bash
+     63 root      20   0       0      0      0 R  87,5   0,0   2:11.26 kswapd0
+   3218 vboxuser  20   0  847756   3200   2432 S   6,2   0,2   0:06.96 snap-st+
+   3412 vboxuser  20   0  218672   2332   2176 S   6,2   0,1   0:05.02 VBoxCli+
+   8154 root       0 -20       0      0      0 I   6,2   0,0   0:00.60 kworker+
+------
+MiB Mem :   1967,6 total,     68,6 free,   1810,5 used,     88,5 buff/cache
+MiB Swap:   2048,0 total,    497,0 free,   1551,0 used.     38,8 avail Mem 
+   7738 vboxuser  20   0 2399364   1,3g   1792 R 100,0  69,4   0:51.15 bash
+     63 root      20   0       0      0      0 R  87,5   0,0   2:11.82 kswapd0
+     62 root       0 -20       0      0      0 I  12,5   0,0   0:03.86 kworker+
+     17 root      20   0       0      0      0 R   6,2   0,0   0:01.71 rcu_pre+
+   8304 vboxuser  20   0   13404   4096   3328 R   6,2   0,2   0:00.01 top
+------
+MiB Mem :   1967,6 total,     88,2 free,   1790,9 used,     88,5 buff/cache
+MiB Swap:   2048,0 total,    454,2 free,   1593,8 used.     58,4 avail Mem 
+   7738 vboxuser  20   0 2424840   1,3g   1792 R 100,0  68,6   0:52.15 bash
+     63 root      20   0       0      0      0 S  56,2   0,0   2:12.65 kswapd0
+     62 root       0 -20       0      0      0 I  12,5   0,0   0:03.96 kworker+
+   3190 vboxuser  20   0  268688   4468   3292 S   6,2   0,2   0:23.80 Xwayland
+   8319 vboxuser  20   0   13404   4096   3328 R   6,2   0,2   0:00.01 top
+------
+MiB Mem :   1967,6 total,     72,7 free,   1811,7 used,     83,2 buff/cache
+MiB Swap:   2048,0 total,    427,1 free,   1620,9 used.     40,3 avail Mem 
+   7738 vboxuser  20   0 2473944   1,3g   1792 R 100,0  69,6   0:53.21 bash
+     63 root      20   0       0      0      0 R  86,7   0,0   2:13.26 kswapd0
+     62 root       0 -20       0      0      0 I  20,0   0,0   0:04.07 kworker+
+   8334 vboxuser  20   0   13404   4096   3328 R   6,7   0,2   0:00.01 top
+      1 root      20   0  166932   3408   3024 S   0,0   0,2   0:02.56 systemd
+------
+MiB Mem :   1967,6 total,     72,8 free,   1812,6 used,     82,2 buff/cache
+MiB Swap:   2048,0 total,    388,8 free,   1659,1 used.     39,9 avail Mem 
+   7738 vboxuser  20   0 2510244   1,3g   1792 R 100,0  69,8   0:54.22 bash
+     63 root      20   0       0      0      0 R  87,5   0,0   2:13.97 kswapd0
+   2676 root      20   0       0      0      0 I  18,8   0,0   0:00.37 kworker+
+    249 root      20   0       0      0      0 I  12,5   0,0   0:00.58 kworker+
+     76 root       0 -20       0      0      0 I   6,2   0,0   0:02.86 kworker+
+------
+MiB Mem :   1967,6 total,     80,7 free,   1806,5 used,     80,3 buff/cache
+MiB Swap:   2048,0 total,    349,6 free,   1698,4 used.     46,9 avail Mem 
+   7738 vboxuser  20   0 2588652   1,4g   1792 R 100,0  72,9   0:55.38 bash
+     63 root      20   0       0      0      0 R   8,7   0,0   2:14.42 kswapd0
+   8154 root       0 -20       0      0      0 I   8,7   0,0   0:00.64 kworker+
+   8364 vboxuser  20   0   13404   3840   3200 R   4,3   0,2   0:00.02 top
+      1 root      20   0  166932   3408   3024 S   0,0   0,2   0:02.56 systemd
+------
+MiB Mem :   1967,6 total,     76,1 free,   1819,7 used,     71,7 buff/cache
+MiB Swap:   2048,0 total,    301,4 free,   1746,6 used.     37,9 avail Mem 
+   7738 vboxuser  20   0 2612148   1,4g   1792 R 100,0  71,9   0:56.44 bash
+     63 root      20   0       0      0      0 R  87,5   0,0   2:15.37 kswapd0
+   8154 root       0 -20       0      0      0 I   6,2   0,0   0:00.72 kworker+
+   8379 vboxuser  20   0   13404   4096   3328 R   6,2   0,2   0:00.01 top
+      1 root      20   0  166932   3280   3024 S   0,0   0,2   0:02.56 systemd
+------
+MiB Mem :   1967,6 total,     63,3 free,   1831,3 used,     73,0 buff/cache
+MiB Swap:   2048,0 total,    259,7 free,   1788,3 used.     25,8 avail Mem 
+   7738 vboxuser  20   0 2667852   1,4g   1792 R 100,0  72,9   0:57.75 bash
+     63 root      20   0       0      0      0 R  86,7   0,0   2:16.21 kswapd0
+    630 root      20   0 1469012   3152   1408 S  60,0   0,2   0:06.48 snapd
+   8093 root       0 -20       0      0      0 I  20,0   0,0   0:00.43 kworker+
+   8154 root       0 -20       0      0      0 I  13,3   0,0   0:00.82 kworker+
+------
+MiB Mem :   1967,6 total,     57,2 free,   1829,0 used,     81,3 buff/cache
+MiB Swap:   2048,0 total,    234,3 free,   1813,7 used.     23,9 avail Mem 
+   7738 vboxuser  20   0 2689500   1,4g   1792 R  93,8  72,2   0:58.74 bash
+     63 root      20   0       0      0      0 R  87,5   0,0   2:17.02 kswapd0
+   8154 root       0 -20       0      0      0 I  12,5   0,0   0:00.85 kworker+
+     30 root      20   0       0      0      0 S   6,2   0,0   0:07.39 ksoftir+
+     76 root       0 -20       0      0      0 I   6,2   0,0   0:03.02 kworker+
+------
+MiB Mem :   1967,6 total,     63,4 free,   1819,5 used,     84,8 buff/cache
+MiB Swap:   2048,0 total,    206,5 free,   1841,5 used.     31,8 avail Mem 
+     63 root      20   0       0      0      0 R  93,8   0,0   2:17.90 kswapd0
+   7738 vboxuser  20   0 2709960   1,4g   1792 R  93,8  71,5   0:59.76 bash
+     76 root       0 -20       0      0      0 I   6,2   0,0   0:03.11 kworker+
+   8424 vboxuser  20   0   13404   4096   3328 R   6,2   0,2   0:00.01 top
+      1 root      20   0  166932   3280   3024 S   0,0   0,2   0:02.56 systemd
+------
+MiB Mem :   1967,6 total,     85,9 free,   1796,9 used,     84,8 buff/cache
+MiB Swap:   2048,0 total,    164,9 free,   1883,1 used.     54,3 avail Mem 
+   7738 vboxuser  20   0 2752332   1,4g   1792 R 100,0  71,7   1:00.96 bash
+     63 root      20   0       0      0      0 R  21,2   0,0   2:18.77 kswapd0
+     76 root       0 -20       0      0      0 I   3,0   0,0   0:03.16 kworker+
+      1 root      20   0  166932   3280   3024 S   0,0   0,2   0:02.56 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+------
+MiB Mem :   1967,6 total,     82,0 free,   1800,9 used,     84,7 buff/cache
+MiB Swap:   2048,0 total,    127,5 free,   1920,5 used.     50,4 avail Mem 
+     63 root      20   0       0      0      0 R  93,8   0,0   2:19.71 kswapd0
+   7738 vboxuser  20   0 2774772   1,4g   1792 R  93,8  70,7   1:01.96 bash
+     62 root       0 -20       0      0      0 I   6,2   0,0   0:04.24 kworker+
+   8454 vboxuser  20   0   13404   4096   3328 R   6,2   0,2   0:00.01 top
+      1 root      20   0  166932   3280   3024 S   0,0   0,2   0:02.56 systemd
+------
+MiB Mem :   1967,6 total,     90,6 free,   1791,9 used,     85,1 buff/cache
+MiB Swap:   2048,0 total,     89,6 free,   1958,4 used.     59,2 avail Mem 
+   7738 vboxuser  20   0 2816352   1,4g   1792 R  93,8  71,4   1:02.98 bash
+     63 root      20   0       0      0      0 R  50,0   0,0   2:20.32 kswapd0
+     76 root       0 -20       0      0      0 I  12,5   0,0   0:03.22 kworker+
+     62 root       0 -20       0      0      0 I   6,2   0,0   0:04.31 kworker+
+   2876 vboxuser  20   0 4638796  32900  21644 S   6,2   1,6   0:56.47 gnome-s+
+------
+MiB Mem :   1967,6 total,     71,8 free,   1808,1 used,     87,7 buff/cache
+MiB Swap:   2048,0 total,     57,9 free,   1990,1 used.     41,7 avail Mem 
+   7738 vboxuser  20   0 2839980   1,4g   1792 R 100,0  70,4   1:04.01 bash
+     63 root      20   0       0      0      0 R  93,3   0,0   2:21.25 kswapd0
+     76 root       0 -20       0      0      0 I   6,7   0,0   0:03.30 kworker+
+   8484 vboxuser  20   0   13404   4096   3328 R   6,7   0,2   0:00.01 top
+      1 root      20   0  166932   3280   3024 S   0,0   0,2   0:02.56 systemd
+------
+MiB Mem :   1967,6 total,     83,0 free,   1801,7 used,     82,9 buff/cache
+MiB Swap:   2048,0 total,     27,0 free,   2021,0 used.     50,4 avail Mem 
+   7738 vboxuser  20   0 2875356   1,4g   1792 R 100,0  70,6   1:05.00 bash
+     63 root      20   0       0      0      0 R  86,7   0,0   2:21.96 kswapd0
+     62 root       0 -20       0      0      0 I   6,7   0,0   0:04.32 kworker+
+     76 root       0 -20       0      0      0 I   6,7   0,0   0:03.35 kworker+
+   8499 vboxuser  20   0   13404   4096   3328 R   6,7   0,2   0:00.01 top
+------
+MiB Mem :   1967,6 total,     55,8 free,   1836,3 used,     75,5 buff/cache
+MiB Swap:   2048,0 total,      0,0 free,   2048,0 used.     19,5 avail Mem 
+   7738 vboxuser  20   0 2956140   1,4g   1792 R 100,0  73,8   1:06.28 bash
+     63 root      20   0       0      0      0 R   7,4   0,0   2:22.48 kswapd0
+   8514 vboxuser  20   0   13404   4096   3328 R   3,7   0,2   0:00.01 top
+      1 root      20   0  166932   1744   1744 S   0,0   0,1   0:02.56 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
