@@ -39,33 +39,39 @@ tmp_change_log="changelog.lst"
 > "$tmp_change_log"
 
 if [[ "$is_new_backup" == true ]]; then 
+    echo "NAME:$backup_dir;CREATION_DATE:$start_date" >> "$HOME/backup-report"
     find "$src_dir" -type f -print0 | while IFS= read -r -d '' file; do
-        cp -- "$file" "$backup_dir/"
+        relative_path="${file#$src_dir/}"
+        mkdir -p "$backup_dir/$(dirname "$relative_path")"
+        cp -- "$file" "$backup_dir/$relative_path"
+        echo "$relative_path" >> "$tmp_change_log"
     done
-    echo "NAME:$backup_dir;CREATION_DATE:$start_date;FILES:$(find "$backup_dir" -type f -exec basename {} \; | tr '\n' ' ')" >> "$HOME/backup-report"
+    echo "FILES:$(cat "$tmp_change_log")" >> "$HOME/backup-report"
+    echo " " >> "$HOME/backup-report"
 else 
     find "$src_dir" -type f -print0 | while IFS= read -r -d '' file; do
-        filename=$(basename "$file")
-        existing_file=$(find "$backup_dir" -type f -name "$filename" -print0 | tr '\0' '\n' | head -n 1)
-
-        if [[ -n "$existing_file" ]]; then 
-            existing_f_size=$(stat -c%s -- "$existing_file")
+        relative_path="${file#$src_dir/}"
+        target_file="$backup_dir/$relative_path"
+        mkdir -p "$(dirname "$target_file")"
+        
+        if [[ -f "$target_file" ]]; then 
+            existing_f_size=$(stat -c%s -- "$target_file")
             src_f_size=$(stat -c%s -- "$file")
             if [[ "$existing_f_size" != "$src_f_size" ]]; then
-                new_version="$existing_file.$start_date"
-                mv -- "$existing_file" "$new_version"
-                cp -- "$file" "$backup_dir/"
-                echo "$filename $new_version" >> "$tmp_change_log"
+                new_version="$target_file.$start_date"
+                mv -- "$target_file" "$new_version"
+                cp -- "$file" "$target_file"
+                echo "$file $new_version" >> "$tmp_change_log"
             fi
         else
-            cp -- "$file" "$backup_dir/"
-            echo "$filename" >> "$tmp_change_log"
+            cp -- "$file" "$target_file"
+            echo "$relative_path" >> "$tmp_change_log"
         fi
     done
     if [[ -s "$tmp_change_log" ]]; then
         echo "NAME:$backup_dir;CHANGE_DATE:$start_date;$(cat "$tmp_change_log" | tr '\n' ' ')" >> "$HOME/backup-report"
+        echo " " >> "$HOME/backup-report"
     fi
 fi
 
 set +f
-

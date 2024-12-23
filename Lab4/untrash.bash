@@ -23,7 +23,7 @@ trash_log_file="temp_log.lst"
 > "$trash_log_file"
 
 
-grep -F "$filename" "$HOME/.trash.log" >> "$trash_log_file"
+grep -F "/$filename;" "$HOME/.trash.log" >> "$trash_log_file"
 
 
 if [[ ! -s "$trash_log_file" ]]; then
