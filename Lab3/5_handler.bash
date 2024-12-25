@@ -1,16 +1,17 @@
 #!/bin/bash
 
-if [[ ! -p pipe ]]; then
-    mkfifo pipe
+if [[ -p stpipe ]]; then
+    rm -f stpipe >/dev/null
 fi
+
+mkfifo stpipe
 
 producer_pid=$(cat .producer_pid)
 
 result=1
 mode="+"
 
-while true; do
-    read -r line < pipe
+(tail -f pipe) | while read -r line; do
     case $line in
     	"+")
         	mode="+"
@@ -30,6 +31,7 @@ while true; do
             ;;
          "QUIT")
             echo "Stopped externally."
+            killall tail
             kill "$producer_pid"
             exit 0
             ;;
